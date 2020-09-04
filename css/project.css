@@ -1,0 +1,13 @@
+.project{
+    text-align: center;
+}
+.project h1{
+    margin: 50px 0;
+}
+.project .container a{
+    text-decoration: none;
+}
+.project .show{
+    margin-bottom: 20px;
+}
+
